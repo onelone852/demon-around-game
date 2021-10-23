@@ -30,7 +30,7 @@
         "地獄之王": {
             "name": "地獄之王",
             "sp": 5,
-            "cooldown": 1,
+            "cooldown": 2,
             "orcooldown": 1
         }
     },
@@ -76,7 +76,7 @@
         "祈禱": {
             "name": "祈禱",
             "sp": 1,
-            "cooldown": 2,
+            "cooldown": 1,
             "orcooldown": 2
         }
     },
