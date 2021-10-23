@@ -1,102 +1,102 @@
 {
     "死亡之身": {
-        "死之禮": {
+        "死之禮": {[
             "name": "死之禮",
             "sp": 0,
             "cooldown": 0,
             "orcooldown": 0
-        },
-        "死吻": {
+        ]},
+        "死吻": {[
             "name": "死吻",
             "sp": 1,
             "cooldown": 0,
             "orcooldown": 0
-        },
-        "復生": {
+        ]},
+        "復生": {[
             "name": "復生",
             "sp": 0,
             "cooldown": 0,
             "orcooldown": 0
-        }
-    },
-    "地獄女僕": {
-        "地擊": {
+        ]}
+    []},
+    "地獄女僕": {[
+        "地擊": {[
             "name": "地擊",
             "sp": 1,
             "cooldown": 0,
             "orcooldown": 0
-        },
-        "地獄之王": {
+        ]},
+        "地獄之王": {[
             "name": "地獄之王",
             "sp": 5,
             "cooldown": 1,
             "orcooldown": 1
-        }
-    },
-    "零骨": {
-        "骨擊": {
+        ]}
+    ]},
+    "零骨": {[
+        "骨擊": {[
             "name": "骨擊",
             "sp": 2,
             "cooldown": 0,
             "orcooldown": 0
-        },
-        "骨毀": {
+        ]},
+        "骨毀": {[
             "name": "骨毀",
             "sp": 0,
             "cooldown": 1,
             "orcooldown": 1
-        },
-        "吸魂": {
+        ]},
+        "吸魂": {[
             "name": "吸魂",
             "sp": 3,
             "cooldown": 0,
             "orcooldown": 0
-        },
-        "連環骨擊": {
+        ]},
+        "連環骨擊": {[
             "name": "連環骨擊",
             "sp": 4,
             "cooldown": 2,
             "orcooldown": 2
-        }
-    },
-    "\"使徒\"": {
-        "魔之鐮": {
+        ]}
+    ]},
+    "\"使徒\"": {[
+        "魔之鐮": {[
             "name": "魔之鐮",
             "sp": 2,
             "cooldown": 0,
             "orcooldown": 0
-        },
-        "撕裂": {
+        ]},
+        "撕裂": {[
             "name": "撕裂",
             "sp": 3,
             "cooldown": 0,
             "orcooldown": 0
-        },
-        "祈禱": {
+        ]},
+        "祈禱": {[
             "name": "祈禱",
             "sp": 1,
             "cooldown": 2,
             "orcooldown": 2
-        }
-    },
-    "破輪": {
-        "穿透": {
+        ]}
+    ]},
+    "破輪": {[
+        "穿透": {[
             "name": "穿透",
             "sp": 0,
             "cooldown": 0,
             "orcooldown": 0
-        },
-        "重碾": {
+        ]},
+        "重碾": {[
             "name": "重碾",
             "sp": 3,
             "cooldown": 0,
             "orcooldown": 0
-        },
-        "輪之地獄": {
+        ]},
+        "輪之地獄": {[
             "name'": "輪之地獄",
             "sp": 5,
             "cooldown": 0,
             "orcooldown": 0
-        }
-    }
+        ]}
+    ]}
 }
