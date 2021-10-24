@@ -99,5 +99,25 @@
             "cooldown": 0,
             "orcooldown": 0
         }
+    },
+    "嗜血狂魔": {
+        "魔爪": {
+            "name": "魔爪",
+            "sp": 1,
+            "cooldown": 1,
+            "orcooldown": 0
+        },
+        "血魔之力": {
+            "name": "血魔之力",
+            "sp": 3,
+            "cooldown": 3,
+            "orcooldown": 3
+        },
+        "狂化": {
+            "name": "狂化",
+            "sp": 3,
+            "cooldown": 2,
+            "orcooldown": 1
+        }        
     }
 }
